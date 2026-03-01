@@ -1,0 +1,22 @@
+
+Front-end
+
+Front-end é a parte visível de um site, aplicativo ou software com a qual os usuários interagem diretamente, incluindo o layout, design, menus, botões e imagens.
+
+Construído com tecnologias como HTMLCSS e JavaScript, o objetivo do front-end é criar uma experiência de usuário (UX) intuitiva e funcional, garantindo que o site funcione bem em diferentes dispositivos (responsividade). 
+
+Principais Tecnologias e Conceitos:
+
+HTML (HyperText Markup Language): Define a estrutura e o conteúdo da página.
+CSS (Cascading Style Sheets): Define o estilo, layout, cores e fontes.
+JavaScript: Adiciona interatividade e dinamismo ao site.
+Frameworks e Bibliotecas: Ferramentas como React, Vue.js e Angular ajudam a construir interfaces complexas mais rapidamente. 
+
+O que faz um Desenvolvedor Front-end?
+
+Transforma o design criado por um UI/UX designer em código funcional.
+Garante que o site seja responsivo (funcione em celulares e computadores).
+Otimiza a performance e a velocidade de carregamento.
+Trabalha para tornar a interface acessível a todos os usuários. 
+
+O front-end conecta a lógica do servidor (back-end) com o usuário final, sendo considerado o "lado do cliente" (client-side).
